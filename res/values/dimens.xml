@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="key_height">50.0dip</dimen>
+    <dimen name="ebpay_title_heigth">50.0dip</dimen>
+     <dimen name="ebpay_white_line_height">46.0dip</dimen>
+</resources>

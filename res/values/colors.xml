@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="ebpay_translucence_color">#77000000</color>
+        <color name="ebpay_white">#ffffffff</color>
+    <color name="ebpay_window_bg">#ffededed</color>
+    <color name="ebpay_text_black1">#ff222222</color>
+        <color name="ebpay_red">#ffff5652</color>
+    <color name="ebpay_text_link_nomal">#ff3da1f6</color>
+    <color name="ebpay_text_link_hover">#ff73bff9</color>
+    <color name="ebpay_fp_text_gray">#ffaaaaaa</color>
+    <color name="ebpay_title_bg">#ff383838</color>
+</resources>
